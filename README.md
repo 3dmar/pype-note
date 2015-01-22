@@ -8,6 +8,8 @@ Clone this repo with:
 
 ```bash
 $ git clone https://github.com/adinanp/pype-note.git
+$ cd pype-note
+$ python setup.py install
 ```
 _(Or click in "Clone in Desktop" button)_
 
